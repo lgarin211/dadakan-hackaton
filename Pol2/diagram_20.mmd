@@ -1,0 +1,21 @@
+graph TD
+    A[ML Lifecycle] --> B[Data Pipeline]
+    A --> C[Model Development]
+    A --> D[Model Deployment]
+    A --> E[Model Monitoring]
+    
+    B --> B1[Data Collection & Labeling]
+    B --> B2[Data Validation & Cleaning]
+    B --> B3[Feature Engineering]
+    
+    C --> C1[Experiment Tracking MLflow]
+    C --> C2[Model Versioning DVC]
+    C --> C3[Hyperparameter Tuning]
+    
+    D --> D1[Model Registry]
+    D --> D2[A/B Testing Framework]
+    D --> D3[Canary Deployments]
+    
+    E --> E1[Performance Monitoring]
+    E --> E2[Drift Detection]
+    E --> E3[Automated Retraining]

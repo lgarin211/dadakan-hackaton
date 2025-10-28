@@ -1,0 +1,12 @@
+graph TD
+    A[Visual Validation Score] --> D[AI Scoring Engine]
+    B[Document Validation Score] --> D
+    C[Anomaly Detection Score] --> D
+    D --> E[Weighted Score Calculation]
+    E --> F{Score Threshold}
+    F -->|>= 80| G[Auto Approve]
+    F -->|60-79| H[Manual Review Required]
+    F -->|< 60| I[Flagged for Investigation]
+    G --> J[Performance Dashboard]
+    H --> K[Supervisor Notification]
+    I --> L[Alert System]

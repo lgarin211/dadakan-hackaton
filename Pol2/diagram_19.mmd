@@ -1,0 +1,19 @@
+graph LR
+    A[Code Commit] --> B[Automated Testing]
+    B --> C[Security Scanning]
+    C --> D[Build & Package]
+    D --> E[Staging Deployment]
+    E --> F[Integration Testing]
+    F --> G[Production Deployment]
+    
+    B --> B1[Unit Tests: 90%+ Coverage]
+    B --> B2[Integration Tests]
+    B --> B3[AI Model Validation]
+    
+    C --> C1[SAST Scanning]
+    C --> C2[Dependency Check]
+    C --> C3[Container Scanning]
+    
+    G --> G1[Blue-Green Deployment]
+    G --> G2[Health Monitoring]
+    G --> G3[Rollback Capability]

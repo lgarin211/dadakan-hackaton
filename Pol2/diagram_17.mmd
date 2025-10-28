@@ -1,0 +1,16 @@
+graph TD
+    A[Multi-Region Setup] --> B[Primary Region: Jakarta]
+    A --> C[Secondary Region: Surabaya]
+    A --> D[DR Region: Singapore]
+    
+    B --> B1[Production Workloads]
+    B --> B2[Primary Database]
+    B --> B3[AI Model Serving]
+    
+    C --> C1[Load Distribution]
+    C --> C2[Read Replicas]
+    C --> C3[Cached Content]
+    
+    D --> D1[Disaster Recovery]
+    D --> D2[Backup Storage]
+    D --> D3[Emergency Failover]

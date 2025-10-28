@@ -1,0 +1,52 @@
+graph TD
+    subgraph "AI Agent Ecosystem"
+        A[Document Analyzer Agent]
+        B[Visual Validator Agent]
+        C[Pattern Recognition Agent]
+        D[Fraud Detection Agent]
+        E[Performance Evaluator Agent]
+        F[Decision Coordinator Agent]
+    end
+    
+    A --> A1[NLP Processing]
+    A --> A2[Document Classification]
+    A --> A3[Content Extraction]
+    
+    B --> B1[Image Authentication]
+    B --> B2[Object Detection]
+    B --> B3[Scene Analysis]
+    
+    C --> C1[Temporal Analysis]
+    C --> C2[Behavioral Patterns]
+    C --> C3[Anomaly Detection]
+    
+    D --> D1[Risk Assessment]
+    D --> D2[Fraud Indicators]
+    D --> D3[Historical Comparison]
+    
+    E --> E1[Performance Metrics]
+    E --> E2[Quality Assessment]
+    E --> E3[Improvement Suggestions]
+    
+    F --> F1[Agent Coordination]
+    F --> F2[Consensus Building]
+    F --> F3[Final Decision]
+    
+    A1 --> F1
+    A2 --> F1
+    A3 --> F1
+    B1 --> F1
+    B2 --> F1
+    B3 --> F1
+    C1 --> F1
+    C2 --> F1
+    C3 --> F1
+    D1 --> F2
+    D2 --> F2
+    D3 --> F2
+    E1 --> F2
+    E2 --> F2
+    E3 --> F2
+    
+    F1 --> F3
+    F2 --> F3

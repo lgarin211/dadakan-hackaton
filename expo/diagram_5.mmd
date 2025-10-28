@@ -1,0 +1,58 @@
+graph TB
+    subgraph "User Layer"
+        A[ASN Dashboard]
+        B[Supervisor Dashboard]
+        C[Management Dashboard]
+    end
+    
+    subgraph "Application Layer"
+        D[Web Application]
+        E[Mobile Application]
+        F[API Gateway]
+    end
+    
+    subgraph "AI Processing Layer"
+        G[Computer Vision Service]
+        H[NLP Service]
+        I[Anomaly Detection Service]
+        J[Scoring Engine]
+    end
+    
+    subgraph "Data Layer"
+        K[User Database]
+        L[Activity Database]
+        M[Document Storage]
+        N[AI Model Storage]
+    end
+    
+    subgraph "Infrastructure Layer"
+        O[Cloud Computing]
+        P[Load Balancer]
+        Q[Security Layer]
+        R[Monitoring & Logging]
+    end
+    
+    A --> D
+    B --> D
+    C --> D
+    D --> F
+    E --> F
+    F --> G
+    F --> H
+    F --> I
+    G --> J
+    H --> J
+    I --> J
+    J --> K
+    J --> L
+    D --> M
+    E --> M
+    G --> N
+    H --> N
+    I --> N
+    
+    D --> O
+    E --> O
+    F --> P
+    F --> Q
+    O --> R

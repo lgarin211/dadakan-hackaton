@@ -1,0 +1,45 @@
+graph TD
+    Start([ASN Login]) --> A[Receive Assignment]
+    A --> B[Execute Activity]
+    B --> C[Collect Evidence]
+    
+    C --> D[Upload Documents]
+    D --> E[AI Processing Pipeline]
+    
+    subgraph "AI Validation Process"
+        E --> F[Computer Vision Analysis]
+        E --> G[NLP Document Processing]
+        E --> H[Anomaly Detection]
+        
+        F --> I[Visual Validation Score]
+        G --> J[Document Validation Score]
+        H --> K[Anomaly Score]
+        
+        I --> L[Integrated Scoring]
+        J --> L
+        K --> L
+    end
+    
+    L --> M{Final Score Evaluation}
+    
+    M -->|Score >= 80| N[Auto Approval]
+    M -->|60-79| O[Manual Review Queue]
+    M -->|< 60| P[Investigation Flag]
+    
+    N --> Q[Update Performance Dashboard]
+    O --> R[Supervisor Review]
+    P --> S[Generate Alert]
+    
+    R --> T{Supervisor Decision}
+    T -->|Approve| Q
+    T -->|Reject| U[Request Revision]
+    T -->|Escalate| S
+    
+    U --> V[ASN Notification]
+    V --> D
+    
+    Q --> W[Performance Analytics]
+    S --> X[Investigation Process]
+    
+    W --> End([Process Complete])
+    X --> End

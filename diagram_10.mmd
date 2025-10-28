@@ -1,0 +1,22 @@
+graph TD
+    A[AI Decision] --> B[Explainability Engine]
+    
+    B --> C[LIME Explanations]
+    B --> D[SHAP Values]
+    B --> E[Attention Visualization]
+    B --> F[Feature Importance]
+    
+    C --> G[Local Feature Importance]
+    D --> H[Global Feature Impact]
+    E --> I[Model Attention Maps]
+    F --> J[Decision Tree Surrogate]
+    
+    G --> K[User-Friendly Explanation]
+    H --> K
+    I --> K
+    J --> K
+    
+    K --> L[Explanation Dashboard]
+    L --> M[ASN Interface]
+    L --> N[Supervisor Interface]
+    L --> O[Audit Trail]

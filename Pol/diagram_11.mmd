@@ -1,0 +1,21 @@
+graph TD
+    A[Risk Categories] --> B[Technical Risks]
+    A --> C[Operational Risks]
+    A --> D[Security Risks]
+    A --> E[Change Management Risks]
+    
+    B --> B1[System Downtime: <0.1%]
+    B --> B2[Performance Degradation: <5%]
+    B --> B3[Data Loss: 0% tolerance]
+    
+    C --> C1[User Resistance: <20%]
+    C --> C2[Process Disruption: <10%]
+    C --> C3[Skill Gap: <15%]
+    
+    D --> D1[Data Breach: 0% tolerance]
+    D --> D2[Unauthorized Access: <0.01%]
+    D --> D3[Fraud Attempt: 100% detection]
+    
+    E --> E1[Training Gap: <10%]
+    E --> E2[Adoption Delay: <3 months]
+    E --> E3[Cultural Resistance: <25%]

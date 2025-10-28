@@ -1,0 +1,28 @@
+graph TD
+    A[Code Commit] --> B[Automated Testing Pipeline]
+    
+    B --> C[Unit Tests]
+    B --> D[Integration Tests]
+    B --> E[AI Model Validation]
+    B --> F[Security Scanning]
+    B --> G[Performance Testing]
+    
+    C --> H{All Tests Pass?}
+    D --> H
+    E --> H
+    F --> H
+    G --> H
+    
+    H -->|No| I[Automated Rollback]
+    H -->|Yes| J[Staging Deployment]
+    
+    J --> K[Automated E2E Testing]
+    K --> L[User Acceptance Testing]
+    L --> M[Production Deployment]
+    
+    M --> N[Monitoring & Alerting]
+    N --> O[Performance Validation]
+    O --> P[Health Check Confirmation]
+    
+    I --> Q[Developer Notification]
+    P --> R[Success Notification]

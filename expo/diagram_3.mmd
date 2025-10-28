@@ -1,0 +1,17 @@
+graph TD
+    A[Data Collection] --> B[Pattern Analysis]
+    B --> C{Time Anomaly}
+    B --> D{Location Anomaly}
+    B --> E{Behavior Anomaly}
+    C -->|Detected| F[Time Alert]
+    C -->|Normal| G[Time Normal]
+    D -->|Detected| H[Location Alert]
+    D -->|Normal| I[Location Normal]
+    E -->|Detected| J[Behavior Alert]
+    E -->|Normal| K[Behavior Normal]
+    F --> L[Anomaly Score Calculation]
+    G --> L
+    H --> L
+    I --> L
+    J --> L
+    K --> L

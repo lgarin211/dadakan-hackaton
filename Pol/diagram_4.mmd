@@ -1,0 +1,21 @@
+graph TD
+    A[System Capacity] --> B[Concurrent Users]
+    A --> C[Data Processing]
+    A --> D[Storage Requirements]
+    A --> E[Geographic Distribution]
+    
+    B --> B1[Phase 1: 10,000 users]
+    B --> B2[Phase 2: 100,000 users]
+    B --> B3[Phase 3: 1,000,000+ users]
+    
+    C --> C1[1M reports/month Phase 1]
+    C --> C2[10M reports/month Phase 2]
+    C --> C3[50M+ reports/month Phase 3]
+    
+    D --> D1[100TB Phase 1]
+    D --> D2[1PB Phase 2]
+    D --> D3[10PB+ Phase 3]
+    
+    E --> E1[3 Regions Phase 1]
+    E --> E2[All Major Cities Phase 2]
+    E --> E3[National Coverage Phase 3]

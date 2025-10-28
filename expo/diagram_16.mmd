@@ -1,0 +1,27 @@
+graph TD
+    subgraph "Security Layers"
+        A[Application Security]
+        B[Data Security]
+        C[Infrastructure Security]
+        D[AI Model Security]
+    end
+    
+    A --> A1[Authentication OAuth 2.0]
+    A --> A2[Authorization RBAC]
+    A --> A3[Input Validation]
+    A --> A4[Session Management]
+    
+    B --> B1[Encryption at Rest AES-256]
+    B --> B2[Encryption in Transit TLS 1.3]
+    B --> B3[Data Masking]
+    B --> B4[Backup Encryption]
+    
+    C --> C1[Network Security WAF]
+    C --> C2[Container Security]
+    C --> C3[Infrastructure as Code]
+    C --> C4[Monitoring SIEM]
+    
+    D --> D1[Model Adversarial Defense]
+    D --> D2[Privacy Preserving ML]
+    D --> D3[Federated Learning]
+    D --> D4[Differential Privacy]

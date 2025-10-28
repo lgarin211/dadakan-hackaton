@@ -1241,5 +1241,3 @@ graph TD
 ```
 
 Dengan metodologi dan solusi yang komprehensif ini, sistem akan mampu memberikan validasi yang akurat, efisien, dan dapat diandalkan untuk kegiatan ASN, sambil mempertahankan standar keamanan dan compliance yang tinggi.
- 
- 

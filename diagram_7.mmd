@@ -1,0 +1,19 @@
+graph TD
+    A[Visual Validation Score] --> E[Weight Assignment]
+    B[Document Validation Score] --> E
+    C[Anomaly Detection Score] --> E
+    D[Historical Performance Score] --> E
+    
+    E --> F[Analytical Hierarchy Process AHP]
+    F --> G[Weighted Score Calculation]
+    
+    G --> H[Final Validation Score]
+    H --> I{Decision Threshold}
+    
+    I -->|Score >= 80| J[Auto Approve]
+    I -->|60 <= Score < 80| K[Manual Review]
+    I -->|Score < 60| L[Investigation Required]
+    
+    J --> M[Update Performance Metrics]
+    K --> N[Supervisor Notification]
+    L --> O[Fraud Alert System]

@@ -1,0 +1,23 @@
+graph TD
+    A[Historical Data] --> B[Feature Engineering]
+    B --> C[Multiple Detection Algorithms]
+    
+    C --> D[Isolation Forest]
+    C --> E[Local Outlier Factor]
+    C --> F[One-Class SVM]
+    C --> G[LSTM Autoencoder]
+    
+    D --> H[Structural Anomalies]
+    E --> I[Local Anomalies]
+    F --> J[Global Anomalies]
+    G --> K[Temporal Anomalies]
+    
+    H --> L[Ensemble Anomaly Score]
+    I --> L
+    J --> L
+    K --> L
+    
+    L --> M{Anomaly Threshold}
+    M -->|High Risk| N[Immediate Alert]
+    M -->|Medium Risk| O[Review Queue]
+    M -->|Low Risk| P[Normal Processing]
