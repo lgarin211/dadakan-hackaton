@@ -1,4 +1,4 @@
-# BAB IV - DAMPAK IMPLEMENTASI SISTEM
+﻿# BAB IV - DAMPAK IMPLEMENTASI SISTEM
 
 ## 4.1 Dampak Jangka Pendek (0-12 Bulan)
 
@@ -36,19 +36,19 @@ graph TD
 **Immediate Benefits (0-6 bulan):**
 
 - **Efficiency Gains:**
-  - Report processing time: dari 1 minggu → 1 hari (85% reduction)
-  - Manual validation effort: dari 100% → 30% (70% reduction)
-  - Administrative overhead: dari 40% → 15% waktu kerja (62% reduction)
+  - Report processing time: dari 1 minggu â†’ 1 hari (85% reduction)
+  - Manual validation effort: dari 100% â†’ 30% (70% reduction)
+  - Administrative overhead: dari 40% â†’ 15% waktu kerja (62% reduction)
 
 - **Quality Improvements:**
-  - Data accuracy: meningkat dari 70% → 95% (35% improvement)
-  - Report completeness: dari 60% → 90% (50% improvement)
-  - Compliance rate: dari 75% → 95% (27% improvement)
+  - Data accuracy: meningkat dari 70% â†’ 95% (35% improvement)
+  - Report completeness: dari 60% â†’ 90% (50% improvement)
+  - Compliance rate: dari 75% â†’ 95% (27% improvement)
 
 - **Cost Reductions:**
-  - Processing costs: Rp 2.5M → Rp 800K per 1000 reports (68% reduction)
-  - Training time: dari 40 jam → 16 jam per ASN (60% reduction)
-  - Error correction: dari Rp 500K → Rp 100K per error (80% reduction)
+  - Processing costs: Rp 2.5M â†’ Rp 800K per 1000 reports (68% reduction)
+  - Training time: dari 40 jam â†’ 16 jam per ASN (60% reduction)
+  - Error correction: dari Rp 500K â†’ Rp 100K per error (80% reduction)
 
 ### 4.1.2 Dampak pada Kultur Organisasi
 
@@ -76,19 +76,19 @@ graph TD
 **Behavioral Indicators (Measurable Changes):**
 
 1. **Digital-First Mindset:**
-   - Mobile usage: 40% → 75% of reports via mobile (87% increase)
-   - Digital documentation: 30% → 85% paperless (183% increase)
-   - Real-time reporting: 10% → 70% same-day submission (600% increase)
+   - Mobile usage: 40% â†’ 75% of reports via mobile (87% increase)
+   - Digital documentation: 30% â†’ 85% paperless (183% increase)
+   - Real-time reporting: 10% â†’ 70% same-day submission (600% increase)
 
 2. **Accountability Culture:**
-   - Voluntary reporting: 50% → 80% proactive submission (60% increase)
-   - Error self-correction: 20% → 65% self-identified issues (225% increase)
-   - Performance discussions: 30% → 85% data-driven conversations (183% increase)
+   - Voluntary reporting: 50% â†’ 80% proactive submission (60% increase)
+   - Error self-correction: 20% â†’ 65% self-identified issues (225% increase)
+   - Performance discussions: 30% â†’ 85% data-driven conversations (183% increase)
 
 3. **Learning & Development:**
-   - Digital skill competency: 40% → 75% proficiency level (87% increase)
-   - AI literacy: 5% → 45% understanding of AI processes (800% increase)
-   - Cross-unit collaboration: 25% → 60% knowledge sharing (140% increase)
+   - Digital skill competency: 40% â†’ 75% proficiency level (87% increase)
+   - AI literacy: 5% â†’ 45% understanding of AI processes (800% increase)
+   - Cross-unit collaboration: 25% â†’ 60% knowledge sharing (140% increase)
 
 ### 4.1.3 Dampak Finansial Immediate
 
@@ -132,19 +132,19 @@ graph TD
 **Citizen-Facing Services Enhancement:**
 
 - **Processing Speed:**
-  - Permit applications: 15 hari → 7 hari (53% faster)
-  - Public complaints: 30 hari → 10 hari (67% faster)
-  - Information requests: 7 hari → 2 hari (71% faster)
+  - Permit applications: 15 hari â†’ 7 hari (53% faster)
+  - Public complaints: 30 hari â†’ 10 hari (67% faster)
+  - Information requests: 7 hari â†’ 2 hari (71% faster)
 
 - **Service Quality:**
-  - Citizen satisfaction: 3.2/5 → 4.1/5 (28% improvement)
-  - First-call resolution: 45% → 70% (55% improvement)
-  - Error rates: 15% → 5% (67% reduction)
+  - Citizen satisfaction: 3.2/5 â†’ 4.1/5 (28% improvement)
+  - First-call resolution: 45% â†’ 70% (55% improvement)
+  - Error rates: 15% â†’ 5% (67% reduction)
 
 - **Transparency:**
-  - Public dashboard usage: 0 → 50,000 monthly users
-  - Data accessibility: 20% → 80% of processes visible (300% increase)
-  - Complaint resolution tracking: 30% → 95% trackable (217% increase)
+  - Public dashboard usage: 0 â†’ 50,000 monthly users
+  - Data accessibility: 20% â†’ 80% of processes visible (300% increase)
+  - Complaint resolution tracking: 30% â†’ 95% trackable (217% increase)
 
 ## 4.2 Dampak Jangka Panjang (1-5 Tahun)
 
@@ -174,19 +174,19 @@ graph TD
 **Institutional Capabilities Development:**
 
 1. **Digital Government Maturity:**
-   - **Year 1-2:** Level 2 (Developing) → Level 3 (Defined)
-   - **Year 3-4:** Level 3 (Defined) → Level 4 (Managed)  
-   - **Year 5:** Level 4 (Managed) → Level 5 (Optimizing)
+   - **Year 1-2:** Level 2 (Developing) â†’ Level 3 (Defined)
+   - **Year 3-4:** Level 3 (Defined) â†’ Level 4 (Managed)  
+   - **Year 5:** Level 4 (Managed) â†’ Level 5 (Optimizing)
 
 2. **AI & Data Analytics Competency:**
-   - **Data-driven decision making:** 30% → 90% of policy decisions
-   - **Predictive analytics usage:** 5% → 70% of planning processes
-   - **AI expertise in government:** 50 experts → 2,000+ certified professionals
+   - **Data-driven decision making:** 30% â†’ 90% of policy decisions
+   - **Predictive analytics usage:** 5% â†’ 70% of planning processes
+   - **AI expertise in government:** 50 experts â†’ 2,000+ certified professionals
 
 3. **Innovation Culture:**
-   - **Digital innovation projects:** 10/year → 200+/year per ministry
-   - **Cross-sector collaboration:** 20% → 80% of major initiatives
-   - **Citizen co-creation:** 5% → 60% of service design processes
+   - **Digital innovation projects:** 10/year â†’ 200+/year per ministry
+   - **Cross-sector collaboration:** 20% â†’ 80% of major initiatives
+   - **Citizen co-creation:** 5% â†’ 60% of service design processes
 
 ### 4.2.2 Economic Impact Projection
 
@@ -227,19 +227,19 @@ graph TD
 **ASN Capability Enhancement:**
 
 1. **Digital Literacy Advancement:**
-   - **Basic digital skills:** 60% → 95% proficiency
-   - **Data analysis capabilities:** 15% → 70% competency
-   - **AI collaboration skills:** 5% → 80% comfort level
+   - **Basic digital skills:** 60% â†’ 95% proficiency
+   - **Data analysis capabilities:** 15% â†’ 70% competency
+   - **AI collaboration skills:** 5% â†’ 80% comfort level
 
 2. **Career Development Opportunities:**
    - **New job categories:** 50+ AI-related positions created
-   - **Skill-based promotions:** 30% → 70% merit-based advancement
-   - **Continuous learning culture:** 40% → 90% participation in upskilling
+   - **Skill-based promotions:** 30% â†’ 70% merit-based advancement
+   - **Continuous learning culture:** 40% â†’ 90% participation in upskilling
 
 3. **Work-Life Balance Improvement:**
-   - **Administrative burden:** 40% → 15% of work time
-   - **Creative/strategic work:** 30% → 60% of work time
-   - **Flexible work arrangements:** 20% → 70% adoption
+   - **Administrative burden:** 40% â†’ 15% of work time
+   - **Creative/strategic work:** 30% â†’ 60% of work time
+   - **Flexible work arrangements:** 20% â†’ 70% adoption
 
 #### B. Citizen Empowerment
 
@@ -292,11 +292,11 @@ graph TD
 **International Recognition Targets:**
 
 1. **UN E-Government Development Index:**
-   - **2024:** 0.6611 (88th globally) → **2030:** 0.85+ (Top 30)
+   - **2024:** 0.6611 (88th globally) â†’ **2030:** 0.85+ (Top 30)
    - **2035:** 0.90+ (Top 15 globally)
 
 2. **World Bank Digital Government Ranking:**
-   - **2024:** Tier 3 (Developing) → **2030:** Tier 1 (Leading)
+   - **2024:** Tier 3 (Developing) â†’ **2030:** Tier 1 (Leading)
    - Become benchmark model for developing nations
 
 3. **Knowledge Transfer Leadership:**
@@ -330,7 +330,7 @@ graph TD
 **Macro-Economic Transformation:**
 
 1. **GDP Contribution:**
-   - **Digital economy share:** 8.2% → 20%+ of GDP
+   - **Digital economy share:** 8.2% â†’ 20%+ of GDP
    - **Government efficiency dividend:** +2.5% annual GDP growth
    - **Innovation premium:** +15% productivity growth vs baseline
 
@@ -437,7 +437,7 @@ graph TD
 
 ---
 
-# BAB V - RANCANGAN EKSEKUSI
+## BAB V - RANCANGAN EKSEKUSI
 
 ## 5.1 Rancangan Eksekusi
 
@@ -656,28 +656,32 @@ gantt
 #### B. Fast Track Deliverables
 
 **Week 2 Checkpoint:**
-- ✅ Core infrastructure live
-- ✅ Development environments ready
-- ✅ 50% of team onboarded
-- ✅ MVP architecture approved
+
+- âœ… Core infrastructure live
+- âœ… Development environments ready
+- âœ… 50% of team onboarded
+- âœ… MVP architecture approved
 
 **Week 4 Checkpoint:**
-- ✅ Basic AI models trained
-- ✅ Core backend APIs functional
-- ✅ UI prototypes validated
-- ✅ Integration patterns established
+
+- âœ… Basic AI models trained
+- âœ… Core backend APIs functional
+- âœ… UI prototypes validated
+- âœ… Integration patterns established
 
 **Week 6 Checkpoint:**
-- ✅ End-to-end integration complete
-- ✅ Security testing passed
-- ✅ Performance benchmarks met
-- ✅ Pilot environment ready
+
+- âœ… End-to-end integration complete
+- âœ… Security testing passed
+- âœ… Performance benchmarks met
+- âœ… Pilot environment ready
 
 **Week 8 Final:**
-- ✅ Production deployment complete
-- ✅ 1,000 pilot users trained
-- ✅ Support processes operational
-- ✅ Success metrics baseline established
+
+- âœ… Production deployment complete
+- âœ… 1,000 pilot users trained
+- âœ… Support processes operational
+- âœ… Success metrics baseline established
 
 ### 5.2.2 Skenario 2: Optimal Cost Implementation (6 Bulan - Optimal Cost)
 
@@ -832,49 +836,49 @@ graph TD
 **Computer Vision Stack:**
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                    Computer Vision Pipeline                  │
-├─────────────────────────────────────────────────────────────┤
-│ Image Input Processing:                                     │
-│ • OpenCV 4.8+ untuk image preprocessing                    │
-│ • Pillow/PIL untuk format conversion                        │
-│ • ImageIO untuk metadata extraction                         │
-│                                                            │
-│ Deep Learning Models:                                       │
-│ • EfficientNet-B7 untuk feature extraction                 │
-│ • YOLOv8 untuk object detection                            │
-│ • ResNet-50 untuk image classification                      │
-│ • Custom CNN untuk deepfake detection                       │
-│                                                            │
-│ Model Serving:                                             │
-│ • TensorFlow Serving untuk production inference            │
-│ • NVIDIA Triton untuk GPU optimization                     │
-│ • ONNX Runtime untuk cross-platform compatibility          │
-└─────────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                    Computer Vision Pipeline                  â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚ Image Input Processing:                                     â”‚
+â”‚ â€¢ OpenCV 4.8+ untuk image preprocessing                    â”‚
+â”‚ â€¢ Pillow/PIL untuk format conversion                        â”‚
+â”‚ â€¢ ImageIO untuk metadata extraction                         â”‚
+â”‚                                                            â”‚
+â”‚ Deep Learning Models:                                       â”‚
+â”‚ â€¢ EfficientNet-B7 untuk feature extraction                 â”‚
+â”‚ â€¢ YOLOv8 untuk object detection                            â”‚
+â”‚ â€¢ ResNet-50 untuk image classification                      â”‚
+â”‚ â€¢ Custom CNN untuk deepfake detection                       â”‚
+â”‚                                                            â”‚
+â”‚ Model Serving:                                             â”‚
+â”‚ â€¢ TensorFlow Serving untuk production inference            â”‚
+â”‚ â€¢ NVIDIA Triton untuk GPU optimization                     â”‚
+â”‚ â€¢ ONNX Runtime untuk cross-platform compatibility          â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 **NLP Processing Stack:**
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                    NLP Processing Pipeline                   │
-├─────────────────────────────────────────────────────────────┤
-│ Text Processing:                                            │
-│ • spaCy 3.7+ untuk tokenization dan NER                    │
-│ • NLTK untuk text preprocessing                             │
-│ • Tesseract OCR untuk document scanning                     │
-│                                                            │
-│ Language Models:                                            │
-│ • IndoBERT untuk Indonesian text understanding             │
-│ • GPT-3.5/4 untuk text generation dan analysis             │
-│ • Custom BERT untuk government domain                       │
-│ • Sentence Transformers untuk semantic similarity          │
-│                                                            │
-│ Model Deployment:                                           │
-│ • Hugging Face Transformers pipeline                       │
-│ • FastAPI untuk REST API endpoints                         │
-│ • Celery untuk async processing                             │
-└─────────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                    NLP Processing Pipeline                   â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚ Text Processing:                                            â”‚
+â”‚ â€¢ spaCy 3.7+ untuk tokenization dan NER                    â”‚
+â”‚ â€¢ NLTK untuk text preprocessing                             â”‚
+â”‚ â€¢ Tesseract OCR untuk document scanning                     â”‚
+â”‚                                                            â”‚
+â”‚ Language Models:                                            â”‚
+â”‚ â€¢ IndoBERT untuk Indonesian text understanding             â”‚
+â”‚ â€¢ GPT-3.5/4 untuk text generation dan analysis             â”‚
+â”‚ â€¢ Custom BERT untuk government domain                       â”‚
+â”‚ â€¢ Sentence Transformers untuk semantic similarity          â”‚
+â”‚                                                            â”‚
+â”‚ Model Deployment:                                           â”‚
+â”‚ â€¢ Hugging Face Transformers pipeline                       â”‚
+â”‚ â€¢ FastAPI untuk REST API endpoints                         â”‚
+â”‚ â€¢ Celery untuk async processing                             â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 ### 5.3.2 Cloud Infrastructure Design
@@ -1059,26 +1063,28 @@ graph TD
 **Scalability Targets:**
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                    Performance Specifications                │
-├─────────────────────────────────────────────────────────────┤
-│ Concurrent Users:                                           │
-│ • Phase 1: 10,000 concurrent users                         │
-│ • Phase 2: 50,000 concurrent users                         │
-│ • Phase 3: 200,000+ concurrent users                       │
-│                                                            │
-│ Response Times:                                             │
-│ • Page Load: < 2 seconds (95th percentile)                 │
-│ • API Calls: < 500ms (average)                             │
-│ • AI Processing: < 3 seconds per document                   │
-│ • Database Queries: < 100ms (average)                      │
-│                                                            │
-│ Throughput:                                                │
-│ • Document Processing: 10,000 docs/hour                    │
-│ • Report Generation: 1,000 reports/minute                   │
-│ • File Uploads: 100MB/second sustained                     │
-│ • Search Queries: 50,000 queries/minute                    │
-└─────────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                    Performance Specifications                â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚ Concurrent Users:                                           â”‚
+â”‚ â€¢ Phase 1: 10,000 concurrent users                         â”‚
+â”‚ â€¢ Phase 2: 50,000 concurrent users                         â”‚
+â”‚ â€¢ Phase 3: 200,000+ concurrent users                       â”‚
+â”‚                                                            â”‚
+â”‚ Response Times:                                             â”‚
+â”‚ â€¢ Page Load: < 2 seconds (95th percentile)                 â”‚
+â”‚ â€¢ API Calls: < 500ms (average)                             â”‚
+â”‚ â€¢ AI Processing: < 3 seconds per document                   â”‚
+â”‚ â€¢ Database Queries: < 100ms (average)                      â”‚
+â”‚                                                            â”‚
+â”‚ Throughput:                                                â”‚
+â”‚ â€¢ Document Processing: 10,000 docs/hour                    â”‚
+â”‚ â€¢ Report Generation: 1,000 reports/minute                   â”‚
+â”‚ â€¢ File Uploads: 100MB/second sustained                     â”‚
+â”‚ â€¢ Search Queries: 50,000 queries/minute                    â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
 Dengan rancangan eksekusi yang komprehensif ini, implementasi sistem dapat dilakukan dengan pendekatan yang fleksibel sesuai dengan kebutuhan timeline dan budget, sambil mempertahankan standar kualitas dan keamanan yang tinggi.
+ 
+ 

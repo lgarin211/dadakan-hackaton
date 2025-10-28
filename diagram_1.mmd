@@ -1,0 +1,12 @@
+graph TD
+    A[Upload Foto Kegiatan] --> B[AI Vision Analysis]
+    B --> C{Deteksi Manipulasi}
+    C -->|Valid| D[Authenticity Score: High]
+    C -->|Manipulated| E[Authenticity Score: Low]
+    B --> F{Relevance Check}
+    F -->|Relevant| G[Relevance Score: High]
+    F -->|Not Relevant| H[Relevance Score: Low]
+    D --> I[Overall Visual Validation Score]
+    E --> I
+    G --> I
+    H --> I

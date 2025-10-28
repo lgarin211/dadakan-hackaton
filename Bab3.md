@@ -1,4 +1,4 @@
-# BAB III - TARGET PENGGUNAAN
+﻿# BAB III - TARGET PENGGUNAAN
 
 ## 3.1 Identifikasi Target Pengguna
 
@@ -8,7 +8,7 @@
 
 **Karakteristik Pengguna:**
 
-- **Jumlah:** ±4.2 juta ASN di seluruh Indonesia
+- **Jumlah:** Â±4.2 juta ASN di seluruh Indonesia
 - **Tingkat Pendidikan:** S1-S3 dengan literasi digital menengah
 - **Usia:** 25-58 tahun dengan mayoritas generasi milenial dan Gen-X
 - **Lokasi:** Tersebar di seluruh wilayah Indonesia (pusat dan daerah)
@@ -61,7 +61,7 @@ graph TD
 
 **Karakteristik Pengguna:**
 
-- **Jumlah:** ±200,000 supervisor di berbagai level
+- **Jumlah:** Â±200,000 supervisor di berbagai level
 - **Posisi:** Kepala Seksi, Kepala Bidang, Kepala Dinas
 - **Tanggung Jawab:** Mengelola 5-50 ASN per supervisor
 - **Waktu Tersedia:** 2-4 jam per hari untuk review
@@ -426,9 +426,9 @@ graph TD
 
 **Revenue Enhancement:**
 
-- **Improved Service Quality:** Increased citizen satisfaction → higher tax compliance
-- **Faster Processing:** More services delivered → increased revenue opportunities
-- **Better Resource Allocation:** Optimized budget utilization → 15% efficiency gain
+- **Improved Service Quality:** Increased citizen satisfaction â†’ higher tax compliance
+- **Faster Processing:** More services delivered â†’ increased revenue opportunities
+- **Better Resource Allocation:** Optimized budget utilization â†’ 15% efficiency gain
 
 #### B. Non-Financial Benefits
 
@@ -605,3 +605,5 @@ graph TD
    - Capacity planning
 
 Dengan target penggunaan yang komprehensif ini, sistem diharapkan dapat memberikan dampak positif yang signifikan bagi transformasi digital pemerintahan Indonesia, meningkatkan transparansi, akuntabilitas, dan efisiensi dalam pengelolaan ASN.
+ 
+ 

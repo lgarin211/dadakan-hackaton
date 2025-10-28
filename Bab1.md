@@ -1,4 +1,4 @@
-# BAB I - PENDAHULUAN
+﻿# BAB I - PENDAHULUAN
 
 ## 1.1 Latar Belakang
 
@@ -281,3 +281,5 @@ graph TB
 - **Compliance**: Sesuai dengan regulasi pemerintah dan audit trail
 
 Dengan implementasi sistem ini, diharapkan dapat tercipta lingkungan kerja ASN yang lebih transparan, akuntabel, dan efisien, serta memberikan kontribusi positif terhadap reformasi birokrasi dan peningkatan kualitas pelayanan publik di Indonesia.
+ 
+ 
